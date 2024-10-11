@@ -2,7 +2,7 @@
 
 ![:nrdxn](https://count.getloli.com/get/@:nrdxn)
 
-<a href="https://github.com/MHSanaei/3x-ui"># Мой VPN Грузия, Армения, Роcсия</a>
+<h1># Мой VPN Грузия, Армения, Роcсия <a href="https://github.com/MHSanaei/3x-ui">(Подробнее)</a></h1>
 
 > ## Языки и инструменты
 ![C++](https://shields.io/badge/c++-090909?style=for-the-badge&logo=&logoColor=white)
