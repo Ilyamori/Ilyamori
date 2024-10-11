@@ -2,7 +2,10 @@
 
 ![:nrdxn](https://count.getloli.com/get/@:nrdxn)
 
+# Мой VPN Грузия, Армения, Росия- https://github.com/MHSanaei/3x-ui
+
 > ## Языки и инструменты
+![C++](https://shields.io/badge/c++-090909?style=for-the-badge&logo=&logoColor=white)
 ![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
 ![JavaScript](https://shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![Python](https://shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
