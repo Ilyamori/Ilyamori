@@ -19,3 +19,4 @@
 
 > ## 📊 Статистика:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nrdxn&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+ <img src="iam.jpg" alt="I'm on a motorcycle =)" width="auto" height="auto"> 
