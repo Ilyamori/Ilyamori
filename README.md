@@ -1,6 +1,6 @@
 # 🍪 Привет, добро пожаловать в мой профиль
 
-![:nrdxn](https://count.getloli.com/get/@:nrdxn)
+![:Mori](https://count.getloli.com/get/@:nrdxn)
 
 > ## 🛠️ Языки и инструменты:
 ![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
