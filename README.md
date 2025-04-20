@@ -21,4 +21,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nrdxn&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 # 🏍️
-![I'm on a motorcycle =)](img_)
+![I'm on a motorcycle =)]()
